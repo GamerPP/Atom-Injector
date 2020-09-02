@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atom Injector But Better", "Atom Injector But Better\Atom Injector But Better.csproj", "{84220595-8CBA-4822-9E48-ECA1D1A09E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Debug|x64.ActiveCfg = Debug|x64
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Debug|x64.Build.0 = Debug|x64
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Debug|x86.ActiveCfg = Debug|x86
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Debug|x86.Build.0 = Debug|x86
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Release|x64.ActiveCfg = Release|x64
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Release|x64.Build.0 = Release|x64
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Release|x86.ActiveCfg = Release|x86
+		{84220595-8CBA-4822-9E48-ECA1D1A09E73}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF24DDD-9FCD-4B0D-9F6A-646600F94F28}
+	EndGlobalSection
+EndGlobal

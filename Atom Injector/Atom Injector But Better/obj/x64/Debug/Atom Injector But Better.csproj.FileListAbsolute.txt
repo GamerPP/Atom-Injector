@@ -1,0 +1,21 @@
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\bin\x64\Debug\Atom Injector But Better.exe.config
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\bin\x64\Debug\Atom Injector But Better.exe
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\bin\x64\Debug\Atom Injector But Better.pdb
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom_Injector_But_Better.AtomInjector.resources
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom_Injector_But_Better.Properties.Resources.resources
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.csproj.GenerateResource.cache
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.csproj.CoreCompileInputs.cache
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.exe
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.pdb
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.csprojAssemblyReference.cache
+C:\Users\thecr\source\repos\Atom Injector But Better\Atom Injector But Better\obj\x64\Debug\Atom_Injector_But_Better.BetaDev_Injector.resources
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\bin\x64\Debug\Atom Injector But Better.exe.config
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\bin\x64\Debug\Atom Injector But Better.exe
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\bin\x64\Debug\Atom Injector But Better.pdb
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.csprojAssemblyReference.cache
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom_Injector_But_Better.AtomInjector.resources
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom_Injector_But_Better.Properties.Resources.resources
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.csproj.GenerateResource.cache
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.csproj.CoreCompileInputs.cache
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.exe
+C:\Users\thecr\source\repos\Atom Injector But Better - Copy (2)\Atom Injector But Better\obj\x64\Debug\Atom Injector But Better.pdb
